@@ -1,0 +1,7 @@
+||geo.hivebedrock.network^$dnsrewrite=72.129.179.229
+||mco.lbsg.net^$dnsrewrite=72.129.179.229
+||mco.mineplex.com^$dnsrewrite=72.129.179.229
+||mco.cubecraft.net^$dnsrewrite=72.129.179.229
+||play.inpvp.net^$dnsrewrite=72.129.179.229
+||play.pixelparadise.gg^$dnsrewrite=72.129.179.229
+||play.galaxite.net^$dnsrewrite=72.129.179.229
